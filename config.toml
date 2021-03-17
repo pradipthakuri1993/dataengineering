@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "/"
+baseURL = "https://pradipthakuri1993.github.io/"
 languageCode = "en-us"
 title = "Data Engineering Solutions"
 theme = "liva-hugo"

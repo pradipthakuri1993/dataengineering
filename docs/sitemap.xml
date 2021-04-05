@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://pradipthakuri1993.github.io/dataengineeringsolution/blog/</loc>
+    <loc>/blog/</loc>
     <lastmod>2020-02-17T09:47:15+05:45</lastmod>
   </url><url>
-    <loc>https://pradipthakuri1993.github.io/dataengineeringsolution/</loc>
+    <loc>/</loc>
     <lastmod>2020-02-17T09:47:15+05:45</lastmod>
   </url><url>
-    <loc>https://pradipthakuri1993.github.io/dataengineeringsolution/about/</loc>
+    <loc>/about/</loc>
   </url><url>
-    <loc>https://pradipthakuri1993.github.io/dataengineeringsolution/categories/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>https://pradipthakuri1993.github.io/dataengineeringsolution/contact/</loc>
+    <loc>/contact/</loc>
   </url><url>
-    <loc>https://pradipthakuri1993.github.io/dataengineeringsolution/search/</loc>
+    <loc>/search/</loc>
   </url><url>
-    <loc>https://pradipthakuri1993.github.io/dataengineeringsolution/tags/</loc>
+    <loc>/tags/</loc>
   </url>
 </urlset>

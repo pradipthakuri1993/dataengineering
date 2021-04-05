@@ -4,4 +4,4 @@ title: "About"
 #draft: true
 ---
 
-![hugo logo](images/pradip.jpg)
+![hugo logo](/images/pradip.jpg)

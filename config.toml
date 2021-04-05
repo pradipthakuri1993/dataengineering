@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = ""
+#baseURL = ""
 languageCode = "en-us"
 title = "Data Engineering Solutions"
 theme = "liva-hugo"
